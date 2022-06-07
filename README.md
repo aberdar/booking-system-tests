@@ -1,6 +1,6 @@
 # Разработка через тестирование
 ## Test-driven development
-____
+
 ### Used:
 
 * Jacoco
